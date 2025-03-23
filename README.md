@@ -4,7 +4,7 @@
 
 ### About the application
 
-+ The login application for employee via **Java Server Pages technology.**
++ An application for employee management via **Java Server Pages technology.**
 
 + The application features:
 
